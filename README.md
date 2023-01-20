@@ -3,6 +3,6 @@
 
 
 - 👀 I’m interested in making music, playing Magic the Gathering, and hitting the badminton courts
-- 🌱 I’m currently learning interning at Hearth in San Francisco as a SWE Intern
+- 🌱 Previously @ Hearth in San Francisco as a SWE Intern
 
 - 📫 How to reach me nelson.nx.lee@gmail.com
