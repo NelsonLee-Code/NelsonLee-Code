@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NelsonLee-Code, a Backend Engineering Intern at Shopify and the Founder of Haven Safe, a Campus Safety Mobile App. I just finished my Computer Engineeringing degree at the University of Toronto
+- 👋 Hi, I’m @NelsonLee-Code, a Software Engineer at Shopify and the Founder of Haven Safe, a Campus Safety Mobile App. I graduated with a Computer Engineeringing degree from the University of Toronto
 - You can learn more about Haven here: www.havensafe.co. 
 
 
